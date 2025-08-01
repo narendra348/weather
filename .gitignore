@@ -1,0 +1,22 @@
+# .gitignore for Python projects
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+build/
+dist/
+*.egg-info/
+.env.*
+*.sqlite3
+instance/
+.webassets-cache
+*.log
+
+# VSCode
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
